@@ -9,4 +9,6 @@
 ### Restaurants
 
 - Opa Café
-- Giordano's
+- Giordano's :pizza:
+- Wendy's
+- Starbucks :coffee:
