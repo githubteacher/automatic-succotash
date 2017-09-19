@@ -1,6 +1,11 @@
 # Hyderbad, India
 
 
-### Paradise
+### Restaurants
+Paradise - Indian Biryani
+Olive garden - Pasta
 
-## Charminar
+
+## Attractions
+Bean
+Michigan Lake
