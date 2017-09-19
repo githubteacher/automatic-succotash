@@ -3,11 +3,12 @@
 ### Attractions
 
 - Charminar
-- Golconda
+- Golconda Fort
 - Ramoji Filmcity
 
 ### Restaurants
 
+- Eat street at Tankbund
 - Paradise
 - Pista House
 - Gokulchat
