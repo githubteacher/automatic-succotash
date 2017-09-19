@@ -1,10 +1,9 @@
  # New Albany, OH
 
  ### Restaurants
-Cake Walk
-Dosa Corner
+- Cake Walk
+:cake: :bread:
+- Dosa Corner
 
 ### Attractions
-Columbus zoo
-
- 
+- Columbus zoo
