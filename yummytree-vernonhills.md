@@ -2,7 +2,9 @@
 
 
 ### Restaurants
-  - Cluckers
 
+  - Cluckers
+  - Some Hamburger place
+  
 ### Attractions
   - Hawthorn Mall
