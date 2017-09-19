@@ -2,7 +2,7 @@
 ## Great places to eat
 
 - Pita Inn
-- Portillos
-- Lou Malnottis
+- Portillos :hotdog:
+- Lou Malnottis :pizza:
 
 ## Fun Things to Do
