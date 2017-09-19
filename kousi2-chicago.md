@@ -12,3 +12,4 @@
 ### Locals Favorites
 - The Landmark
 - Botanic Gardens
+- The Glen
