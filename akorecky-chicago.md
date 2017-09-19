@@ -9,3 +9,4 @@
 - Willis Tower
 - Union Station
 - Navy Pier
+- Grant Park
