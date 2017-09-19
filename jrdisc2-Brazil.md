@@ -1,10 +1,10 @@
 # Rio de Janeiro, Brazil
 
 ### Restaurants
-- Local All you can eat Steak Houses
+- Texas de Brazil
 - Juice Bars
-- Galeterias (small grilled chics specialty restaurant)
-- We also have brazilian all you can eat :pizza: places  
+- Galeterias da Vila :chicken:
+- Pizzaria Roma :pizza:  
 
 ### Atractions
 
