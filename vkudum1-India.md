@@ -4,7 +4,8 @@
 # Attractions
 
 #Restaurents
-
+Indian
+Thai
 
 #Food
 Spicy Food
