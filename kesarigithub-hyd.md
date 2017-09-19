@@ -12,3 +12,8 @@
 - Paradise
 - Pista House
 - Gokulchat
+
+### :heart: by the locals
+
+- Hitech city
+- Ramkibandi
