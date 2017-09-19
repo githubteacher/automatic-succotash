@@ -2,6 +2,8 @@
 ### Resturants
 - Flight
 - Melting Pot
+- Avli Estiatorio
+- Wildfire
 
 ### Attractions
 - Willis Tower
