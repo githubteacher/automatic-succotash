@@ -8,3 +8,7 @@
 ### Attractions
 - Willis Tower
 - The Bean
+
+### Locals Favorites
+- The Landmark
+- Botanic Gardens
