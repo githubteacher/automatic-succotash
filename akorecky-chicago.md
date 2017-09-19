@@ -3,6 +3,7 @@
 - Flight
 - Melting Pot
 
-### Attactions
+### Attractions
 - Willis Tower
 - Union Station
+- Navy Pier
