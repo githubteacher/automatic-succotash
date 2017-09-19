@@ -12,3 +12,6 @@
 - Christ Redeemer Statue
 - Copacabana and Ipanema Beach
 - Maracana Soccer Stadium
+- Carnaval
+- Trails and Forests
+- Buzios
