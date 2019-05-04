@@ -7,3 +7,6 @@
 
 ### Attractions
 - Columbus zoo
+
+
+New location: Peoria IL
